@@ -120,11 +120,6 @@ http://<AWS_PUBLIC_IP>:2020
 
 ---
 
-## Visual Pipeline Diagram 🖼️
-
-Optional: Add a simple visual diagram of the pipeline here.
-
----
 
 ## Conclusion 🏁
 
