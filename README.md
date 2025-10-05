@@ -132,8 +132,5 @@ This project represents a **real-world DevOps workflow**, combining coding, cont
 
 ---
 
-```
-
----
 
 
